@@ -5467,11 +5467,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LAzY BUGzzz\\visualbasicproject\\visualbasicproject.csproj",
+      "projectUniqueName": "D:\\PROGRAMMING\\VISUAL BASIC\\visualbasicproject\\visualbasicproject.csproj",
       "projectName": "visualbasicproject",
-      "projectPath": "C:\\Users\\LAzY BUGzzz\\visualbasicproject\\visualbasicproject.csproj",
+      "projectPath": "D:\\PROGRAMMING\\VISUAL BASIC\\visualbasicproject\\visualbasicproject.csproj",
       "packagesPath": "C:\\Users\\LAzY BUGzzz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LAzY BUGzzz\\visualbasicproject\\obj\\",
+      "outputPath": "D:\\PROGRAMMING\\VISUAL BASIC\\visualbasicproject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LAzY BUGzzz\\AppData\\Roaming\\NuGet\\NuGet.Config",
